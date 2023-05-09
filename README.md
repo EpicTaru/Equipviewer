@@ -28,4 +28,4 @@ https://github.com/ProjectTako/ffxi-addons/tree/master/equipviewer
 
 `/equipviewer pos[ition] x-value y-value` - Moves the equipment overlay to the desired location.
 
-`/equipviewer scale ##` - Changes the size of the overlay, valid choices for ## are: 16, 32, 48, 64
+`/equipviewer scale ##` - Changes the size of the overlay, valid choices for `##` are: `16`, `32`, `48`, `64`.
