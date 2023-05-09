@@ -17,9 +17,9 @@ https://github.com/ProjectTako/ffxi-addons/tree/master/equipviewer
 
 2. Unzip the release package.
 
-3. In the extracted folder, copy the unzipped directory `equipviewer-ashita-<version>` subdirectory to the Ashita addon directory.
+3. In the extracted folder, copy the unzipped directory `equipviewer-<version>` subdirectory to the Ashita addon directory.
 
-4. Rename the `equipviewer-ashita-<version>` directory to `equipviewer`.
+4. Rename the `equipviewer-<version>` directory to `equipviewer`.
 
 5. Load the addon via the `default.txt` script or Ashita `/addon load equipviewer` command.
 
