@@ -4,7 +4,7 @@
 
 Overlays your currently equipped items onto the screen anywhere. Basically just shows your equipment screen, but smaller, anywhere you want, and you can make it translucent. 
 
-This repo is simply a Ashita packaged version of `EquipViewer` reverted to the version necessary for use on servers version locked PRIOR to the beginning of 2020.
+I am not the creator of this addon.  This repo is simply a Ashita packaged version of `EquipViewer` reverted to the version necessary for use on servers version locked PRIOR to the beginning of 2020.
 
 There is a newer Ashita plugin version of `Equipviewer` available that should be used for servers that are on a version newer than the end of 2019. The newer version can be obtained at:
 
