@@ -1,12 +1,12 @@
-# DEPRECIATED
-
 ## EquipViewer
 
 Overlays your currently equipped items onto the screen anywhere. Basically just shows your equipment screen, but smaller, anywhere you want, and you can make it translucent. 
 
-I am not the creator of this addon.  This repo is simply a Ashita packaged version of `EquipViewer` reverted to the version necessary for use on servers version locked PRIOR to the beginning of 2020.
+I am not the creator of this addon.  This repo is simply a Ashita packaged version of a depreciated version of `EquipViewer` that is reverted to the version necessary for use on servers version-locked <strong>PRIOR</strong> to the beginning of 2020. 
 
-There is a newer/current Ashita plugin version of `Equipviewer` available that should be used for servers that are on a version newer than the end of 2019. The newer/current version, as well as to submit issues with the newer/current version, is located at:
+As I do not own this addon, I cannot assist with issues regarding it.  I am able, though, to assist with issues related to the icon images used by this addon, as well as the addition of icon images for this addon if they are found to be missing (missing icon images display as a `white box` in the addon overlay). Please use the Issues tab to submit issue tickets for either of the above issue types.
+
+There is a newer/current Ashita plugin version of `Equipviewer` available that <ins>should</ins> be used for servers that are on a version <strong>NEWER</strong> than the end of 2019. The newer/current version, as well as to submit issues with the newer/current version, is located at:
 
 https://github.com/ProjectTako/ffxi-addons/tree/master/equipviewer
 
