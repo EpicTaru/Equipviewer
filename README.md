@@ -4,7 +4,7 @@ Overlays your currently equipped items onto the screen anywhere. Basically just 
 
 I am not the creator of this addon.  This repo is simply a Ashita packaged version of a depreciated version of `EquipViewer` that is reverted to the version necessary for use on servers version-locked <strong>PRIOR</strong> to the beginning of 2020. 
 
-As I do not own this addon, I cannot assist with issues regarding it.  I am able, though, to assist with issues related to the icon images used by this addon, as well as the addition of icon images for this addon if they are found to be missing (missing icon images display as a `white box` in the addon overlay). Please use the Issues tab to submit issue tickets for either of the above issue types.
+As I do not own this addon, I cannot assist with issues regarding it.  I am able, though, to assist with issues related to the icon images used by this addon, as well as the addition of icon images for this addon if they are found to be missing (missing icon images display as a `white box` in the addon overlay). Please submit issue tickets for either of these issue types at: https://github.com/EpicTaru/Equipviewer/issues
 
 There is a newer/current Ashita plugin version of `Equipviewer` available that <ins>should</ins> be used for servers that are on a version <strong>NEWER</strong> than the end of 2019. The newer/current version, as well as to submit issues with the newer/current version, is located at:
 
